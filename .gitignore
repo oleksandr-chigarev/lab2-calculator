@@ -1,0 +1,9 @@
+build-ninja/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.o
+*.a
+calculator_app
+.DS_Store
+.vscode/
